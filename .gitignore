@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database / data
+*.db
+*.sqlite3
+
+# Uploaded files
+uploads/
+
+# Generated files
+outputs/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
